@@ -1,2 +1,2 @@
 # wnku.github.io
-yeah
+funky
